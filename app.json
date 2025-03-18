@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "8b46484f-60be-4ac8-8f76-14173bb8da18"
+      }
+    },
+    "owner": "kotorimas"
   }
 }
